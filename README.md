@@ -20,7 +20,15 @@ git add *
 ```bash
 git commit -m "Initial commit"
 ```
+* Після, створити репозиторій у Github, та виконати наступні дії:
+```bash
+git remote add origin https://github.com/kekYaYlol/react-templat.git
+```
 ```bash
 git push -u origin main
+```
+* Далі, додатково встановити Node modules
+```bash
+npm install
 ```
 ## Після виконання всіх дій ваш шаблон готовий до використання!
